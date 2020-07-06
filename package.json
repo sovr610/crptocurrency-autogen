@@ -1,0 +1,39 @@
+{
+  "name": "crypto-csharp",
+  "version": "1.0.0",
+  "description": "A way to generate cryptocurrency coins based on proof of work",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovr610/crptocurrency-autogen.git"
+  },
+  "keywords": [
+    "crypto",
+    "coin",
+    "dotnet",
+    "csharp",
+    "node",
+    "currency"
+  ],
+  "author": "Parker Bidigare (work.simpleintelligence@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sovr610/crptocurrency-autogen/issues"
+  },
+  "homepage": "https://github.com/sovr610/crptocurrency-autogen#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-count": "^1.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0",
+    "jsdoc": "^3.6.4",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5"
+  }
+}

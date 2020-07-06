@@ -1,0 +1,7 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.prop filter=lfs diff=lfs merge=lfs -text
+*.whl filter=lfs diff=lfs merge=lfs -text
+*.tar filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
